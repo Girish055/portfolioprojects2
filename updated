@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Girish's Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>This is<br />
+						Girish's Portfolio 
+
+						<ul class="actions">
+							<li><a href="#header" class="hover icon solid solo hover scrolly"></a></li>
+						</ul>
+						
+					</h1>
+					
+						<p>A data Analyst skilled in Python, SQL, Excel, Power BI and Tableau </p>
+						<p>	<a href="https://www.linkedin.com/in/girishbhagwanani/"> 
+							My LinkedIn </a><a href="https://html5up.net"></a><br />
+						  </p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">My Projects</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Girish's Portfolio</a></li>
+
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/girishbhagwanani/" class="icon brands alt fa-linkedin"><span class="label"> linkedin </span></a></li>
+						
+							<li><a href="https://github.com/Girish055/portfolioprojects" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									
+									<h2><a href="https://github.com/Girish055/portfolioprojects/blob/main/Nashville%20Housing%20Data.sql">Data Cleaning in SQL<br />
+									</a></h2>
+									<p>In this project we cleaned housing data in A SQL server.</p>
+								</header>
+								<a href="https://github.com/Girish055/portfolioprojects/blob/main/Nashville%20Housing%20Data.sql" class="image main"><img src="images/housing.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/Girish055/portfolioprojects/blob/main/Nashville%20Housing%20Data.sql" class="button large">View Project</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/Girish055/portfolioprojects/blob/main/DataExploration~vs82DB%20v1.sql">Data Exploration in SQL<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/Girish055/portfolioprojects/blob/main/DataExploration~vs82DB%20v1.sql" class="image fit"><img src="images/covid.jpg" alt="" /></a>
+									<p>Data Exploration of Covid dataset in a MySQL server.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/Girish055/portfolioprojects/blob/main/DataExploration~vs82DB%20v1.sql" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://public.tableau.com/app/profile/girish.bhagwanani/viz/CovidDashboard_17030795213900/Dashboard1">Tableau Project<br />
+										</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/girish.bhagwanani/viz/CovidDashboard_17030795213900/Dashboard1" class="image fit"><img src="images/tableau.jpg" alt="" /></a>
+									<p>Here is the Tableau Dashboard for the covid dataset.</p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/girish.bhagwanani/viz/CovidDashboard_17030795213900/Dashboard1" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/Girish055/portfolioprojects/blob/main/Movie_corr_project.ipynb">Python Project-1<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/Girish055/portfolioprojects/blob/main/Movie_corr_project.ipynb" class="image fit"><img src="images/python.jpg" alt="" /></a>
+								<p>In this Project I analysed a movie dataset to understand the correlation between budget of a film and its gross revenue.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/Girish055/portfolioprojects/blob/main/Movie_corr_project.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/Girish055/portfolioprojects/blob/c2ae1f4c8c45f8d1b2d4f2d692b68efea3872495/Clicks%20on%20Ad%20project.ipynb">Python Project-2<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/Girish055/portfolioprojects/blob/c2ae1f4c8c45f8d1b2d4f2d692b68efea3872495/Clicks%20on%20Ad%20project.ipynb" class="image fit"><img src="images/pythonML.jpg" alt="" /></a>
+									<p>This project is done with Machine Learning using Logistic Regression for better analysis of Advertisement clicks.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/Girish055/portfolioprojects/blob/c2ae1f4c8c45f8d1b2d4f2d692b68efea3872495/Clicks%20on%20Ad%20project.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
+							</section>
+
+						
+					
+
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>Andheri East, Mumbai, Maharashtra, India, 400059<br />
+								</p>
+							</section>
+							
+							<section>
+								<h3>Email</h3>
+								<p><a href="mailto:g09bhagwanani@gmail.com">g09bhagwanani@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.linkedin.com/in/girishbhagwanani/" class="icon brands alt fa-linkedin"><span class="label"> linkedin </span></a></li>
+						
+							<li><a href="https://github.com/Girish055/portfolioprojects" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>  
